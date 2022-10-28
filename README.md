@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Niceanyh
-- 👀 I’m interested in Data Science and Reinforcement Learning
+- 👀 I’m interested in Data Science, Multi-Agent System and Reinforcement Learning.
 - 📫 2748625Y@student.gla.ac.uk
 
 <!---
